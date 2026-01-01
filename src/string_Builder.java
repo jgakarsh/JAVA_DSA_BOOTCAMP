@@ -3,5 +3,6 @@ public class string_Builder {
         System.out.println("Hello");
         StringBuilder sb=new StringBuilder("Akarsh");
         System.out.println(sb);
+
     }
 }
